@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import streamlit; import PIL; print\\('Streamlit and Pillow are installed'\\)\")",
+      "Bash(pip install *)"
+    ]
+  }
+}
